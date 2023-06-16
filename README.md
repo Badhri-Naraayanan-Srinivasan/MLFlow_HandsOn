@@ -4,6 +4,7 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 
 # Basic setup
 
+
 ## Setup the environment
 - clone this repository
 - **with virtualenv (recommended)**
@@ -11,8 +12,8 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
   - create a new environment: `virtualenv mlflow_tutorial`
   - activate the environment: `source mlflow_tutorial/bin/activate`
   - run `pip install -r requirements.txt`
-  
-- **with pipenv** 
+
+- **with pipenv**
   - install pipenv: `pip install pipenv`
   - run `pipenv install` in the directory of the Pipfile
   - activate the environment by `pipenv shell`
