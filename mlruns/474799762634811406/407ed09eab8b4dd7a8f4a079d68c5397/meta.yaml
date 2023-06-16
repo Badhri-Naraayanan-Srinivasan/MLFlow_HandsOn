@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/407ed09eab8b4dd7a8f4a079d68c5397/artifacts
+end_time: 1686848440538
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: 407ed09eab8b4dd7a8f4a079d68c5397
+run_name: respected-bee-822
+run_uuid: 407ed09eab8b4dd7a8f4a079d68c5397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686848438791
+status: 3
+tags: []
+user_id: badhri

@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/19fae914ad7940d6bba195a62c9a41f9/artifacts
+end_time: 1686848438730
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: 19fae914ad7940d6bba195a62c9a41f9
+run_name: kindly-hog-181
+run_uuid: 19fae914ad7940d6bba195a62c9a41f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686848437003
+status: 3
+tags: []
+user_id: badhri

@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/50fa69e044c7420b9c75233240dd5fe2/artifacts
+end_time: 1686848436934
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: 50fa69e044c7420b9c75233240dd5fe2
+run_name: enthused-kit-509
+run_uuid: 50fa69e044c7420b9c75233240dd5fe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686848434897
+status: 3
+tags: []
+user_id: badhri

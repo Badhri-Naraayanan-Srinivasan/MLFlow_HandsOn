@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/6a0463032fbc4a0db89e7f6ee98fd259/artifacts
+end_time: 1686846914038
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: 6a0463032fbc4a0db89e7f6ee98fd259
+run_name: merciful-fly-326
+run_uuid: 6a0463032fbc4a0db89e7f6ee98fd259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686846911462
+status: 3
+tags: []
+user_id: badhri

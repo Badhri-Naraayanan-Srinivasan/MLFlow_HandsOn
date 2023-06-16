@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/db8fbacff1fb47898c7952aac8badc68/artifacts
+end_time: 1686895737591
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: db8fbacff1fb47898c7952aac8badc68
+run_name: vaunted-ray-497
+run_uuid: db8fbacff1fb47898c7952aac8badc68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686895735672
+status: 3
+tags: []
+user_id: badhri

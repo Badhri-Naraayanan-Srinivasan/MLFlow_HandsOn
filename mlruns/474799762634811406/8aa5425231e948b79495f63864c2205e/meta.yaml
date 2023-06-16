@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/8aa5425231e948b79495f63864c2205e/artifacts
+end_time: 1686895735608
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: 8aa5425231e948b79495f63864c2205e
+run_name: mercurial-rook-537
+run_uuid: 8aa5425231e948b79495f63864c2205e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686895732909
+status: 3
+tags: []
+user_id: badhri

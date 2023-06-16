@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/7e37726f3198488484d6e27dc61883dc/artifacts
+end_time: 1686846916536
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: 7e37726f3198488484d6e27dc61883dc
+run_name: entertaining-foal-27
+run_uuid: 7e37726f3198488484d6e27dc61883dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686846914101
+status: 3
+tags: []
+user_id: badhri

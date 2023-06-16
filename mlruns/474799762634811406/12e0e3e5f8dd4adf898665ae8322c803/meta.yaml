@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/12e0e3e5f8dd4adf898665ae8322c803/artifacts
+end_time: 1686846911389
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: 12e0e3e5f8dd4adf898665ae8322c803
+run_name: monumental-smelt-57
+run_uuid: 12e0e3e5f8dd4adf898665ae8322c803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686846908440
+status: 3
+tags: []
+user_id: badhri

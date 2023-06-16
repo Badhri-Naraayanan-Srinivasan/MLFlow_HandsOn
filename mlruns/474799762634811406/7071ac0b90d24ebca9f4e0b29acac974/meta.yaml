@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/7071ac0b90d24ebca9f4e0b29acac974/artifacts
+end_time: 1686848248310
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: 7071ac0b90d24ebca9f4e0b29acac974
+run_name: abundant-slug-277
+run_uuid: 7071ac0b90d24ebca9f4e0b29acac974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686848246188
+status: 3
+tags: []
+user_id: badhri

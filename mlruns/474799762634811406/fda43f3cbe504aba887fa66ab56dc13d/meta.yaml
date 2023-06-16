@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/fda43f3cbe504aba887fa66ab56dc13d/artifacts
+end_time: 1686848251696
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: fda43f3cbe504aba887fa66ab56dc13d
+run_name: enchanting-owl-483
+run_uuid: fda43f3cbe504aba887fa66ab56dc13d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686848250099
+status: 3
+tags: []
+user_id: badhri

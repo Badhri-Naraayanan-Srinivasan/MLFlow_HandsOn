@@ -1,0 +1,15 @@
+artifact_uri: /home/badhri/pydataberlin-2019/mlruns/474799762634811406/58ab7dc68cbb4f49ba8796c281b08ac6/artifacts
+end_time: 1686895739662
+entry_point_name: ''
+experiment_id: '474799762634811406'
+lifecycle_stage: active
+run_id: 58ab7dc68cbb4f49ba8796c281b08ac6
+run_name: glamorous-mare-48
+run_uuid: 58ab7dc68cbb4f49ba8796c281b08ac6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686895737662
+status: 3
+tags: []
+user_id: badhri
